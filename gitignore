@@ -21,3 +21,10 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+
+.vscode/
+.virtual_documents/
+anaconda_projects/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
