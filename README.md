@@ -1,5 +1,7 @@
 # Customer Segmentation — Olist E-Commerce
 
+🌐 **[View Live Dashboard](https://customer-segmentation-project-807.streamlit.app/)**
+
 An end-to-end data science project that segments 93,357 Olist e-commerce customers into actionable business groups using RFM analysis and KMeans clustering, presented through an interactive Streamlit dashboard.
 
 ## 🎯 Project Overview
