@@ -60,7 +60,7 @@ Python · Pandas · NumPy · Scikit-learn · Plotly · Matplotlib · Seaborn · 
 
 ## 👤 Author
 
-**Sahil**
+**Mohd Sahil**
 
 ## 📄 License
 
