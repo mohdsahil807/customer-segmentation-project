@@ -33,6 +33,22 @@ This project analyzes the [Olist Brazilian E-Commerce dataset](https://www.kaggl
 
 ## 📁 Project Structure
 
+```
+customer-segmentation-project/
+├── data/
+│   ├── raw/                  # Original Olist CSVs
+│   ├── intermediate/         # Merged and cleaned data
+│   └── processed/            # Final features and segmented data
+├── notebooks/                # 01-06: merging → preprocessing → EDA → features → training → evaluation
+├── src/                      # Reusable Python modules (mirrors notebook logic)
+├── models/saved_models/      # Trained KMeans model, scaler, and metadata (.pkl)
+├── reports/                  # Figures and final PDF report
+├── streamlit/                # Interactive dashboard (app.py)
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
+
 
 ## 🚀 How to Run
 
