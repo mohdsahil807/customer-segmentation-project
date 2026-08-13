@@ -638,4 +638,4 @@ elif page == "Insights":
                     <div style="color: #cbd5e1; font-size: 12px; margin-top: 8px; line-height: 1.4;">{text}</div>
                 </div>
             """, unsafe_allow_html=True)
-            insights_summary()
+    insights_summary()
